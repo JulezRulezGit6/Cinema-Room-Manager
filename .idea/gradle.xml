@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Problems (1) (1)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (1)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (10)/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems (11)/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems (12)/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems (13)/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems (14)/Out of bounds!" />
+            <option value="$PROJECT_DIR$/Problems (2)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (3)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (4)/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems (5)/Cinema" />
+            <option value="$PROJECT_DIR$/Problems (6)/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems (7)/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems (8)/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems (9)/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Out of bounds!" />
+            <option value="$PROJECT_DIR$/Problems/Print  Hello, Java!" />
+            <option value="$PROJECT_DIR$/Problems/Print  We are robots!" />
+            <option value="$PROJECT_DIR$/Problems/What's wrong" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

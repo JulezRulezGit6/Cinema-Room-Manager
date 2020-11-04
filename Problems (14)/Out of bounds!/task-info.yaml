@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    class FixingStringIndexOutOfBoundsException {
+
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            String string = scanner.nextLine();
+            int index = scanner.nextInt();
+
+            System.out.println(string.charAt(index));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3821
+status: Failed
+feedback:
+  message: "Failed test #4 of 7. Runtime error\n\nError:\nException in thread \"main\"\
+    \ java.lang.StringIndexOutOfBoundsException: String index out of range: 7\n\t\
+    at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)\n\tat java.base/java.lang.String.charAt(String.java:693)\n\
+    \tat FixingStringIndexOutOfBoundsException.main(Main.java:11)\n"
+  time: Tue, 03 Nov 2020 18:41:27 UTC
+record: -1
